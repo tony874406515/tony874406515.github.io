@@ -19,16 +19,16 @@ This repository is configured as a project page for:
 
 ```yml
 url: https://tony874406515.github.io
-baseurl: /shitaojin.github.io
+baseurl:
 ```
 
 The expected deployed URL is:
 
 ```text
-https://tony874406515.github.io/shitaojin.github.io/
+https://tony874406515.github.io/
 ```
 
-If the repository is renamed to `tony874406515.github.io`, set `baseurl:` to blank in `_config.yml`.
+The repository should be named `tony874406515.github.io` so the site is published at the root GitHub Pages address.
 
 ## Deployment
 
