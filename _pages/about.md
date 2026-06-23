@@ -27,7 +27,7 @@ latest_posts:
   enabled: false
 ---
 
-I am **Shitao Jin (靳世涛)**, a PhD candidate in Architecture at [Tongji University](https://www.tongji.edu.cn/) and a joint-training researcher in the Department of Infrastructure Engineering, Faculty of Engineering and Information Technology, [The University of Melbourne](https://infrastructure.eng.unimelb.edu.au/research/engineering-management/sustainable-production/graduate-researchers/shitao-jin). My thesis investigates **a collaborative optimization system for architectural programming of mega infrastructure projects based on collective intelligence**.
+I am **Shitao Jin (靳世涛)**, a PhD candidate in Architecture at [Tongji University](https://www.tongji.edu.cn/) and a visiting PhD researcher in the Department of Infrastructure Engineering, Faculty of Engineering and Information Technology, [The University of Melbourne](https://infrastructure.eng.unimelb.edu.au/research/engineering-management/sustainable-production/graduate-researchers/shitao-jin). My thesis investigates **a collaborative optimization system for architectural programming of mega infrastructure projects based on collective intelligence**.
 
 My research sits at the intersection of architectural programming, construction and project management, and AI-enabled decision-making. I develop methods for complex public projects such as mega transportation hubs, child-friendly communities, urban renewal, social infrastructure, and learning environments. Methodologically, I work with text mining, topic modeling, sentiment analysis, bibliometrics, social network analysis, multi-criteria decision-making, fuzzy/grey methods, Monte Carlo simulation, deep learning, and multi-agent reinforcement learning.
 
