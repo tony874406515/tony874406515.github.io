@@ -10,28 +10,32 @@ Personal academic website for Shitao Jin, built with the [al-folio](https://gith
 - `_data/cv.yml`: CV page data
 - `_data/socials.yml`: academic and contact links
 - `assets/img/profile.jpg`: profile photo
-- `assets/img/publications/`: publication preview images rendered from local PDFs
+- `assets/img/publication_preview/`: publication preview images referenced by the `preview` field in `_bibliography/papers.bib`
 - `assets/pdf/`: CV PDFs and selected paper PDFs
 
 ## GitHub Pages URL
 
-This repository is configured as a project page for:
+The GitHub repository homepage link can point to:
+
+```text
+https://shitaojin.github.io/
+```
+
+For the current `tony874406515/shitaojin.github.io` repository, GitHub Pages publishes the working site as a project page:
 
 ```yml
 url: https://tony874406515.github.io
-baseurl:
+baseurl: /shitaojin.github.io
 ```
 
 The expected deployed URL is:
 
 ```text
-https://tony874406515.github.io/
+https://tony874406515.github.io/shitaojin.github.io/
 ```
 
-The repository should be named `tony874406515.github.io` so the site is published at the root GitHub Pages address.
+To make `https://shitaojin.github.io/` actually resolve, the site must be hosted from a GitHub user or organization named `shitaojin` with a repository named `shitaojin.github.io`.
 
 ## Deployment
 
-The included `.github/workflows/deploy.yml` builds the site with GitHub Actions and deploys the generated `_site` folder to GitHub Pages.
-
-After pushing to GitHub, enable GitHub Pages from the `gh-pages` branch in the repository settings if it is not already enabled.
+The included `.github/workflows/jekyll.yml` builds the site with GitHub Actions and deploys the generated `_site` folder to GitHub Pages.
