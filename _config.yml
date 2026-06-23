@@ -11,15 +11,15 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Shitao Jin is a PhD candidate in Architecture at Tongji University and a joint-training researcher at The University of Melbourne, working on AI-enabled architectural programming, collective intelligence, and megaproject decision-making.
 footer_text: >
-  <link rel="stylesheet" href="/shitaojin.github.io/assets/css/custom.css">
+  <link rel="stylesheet" href="/assets/css/custom.css">
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: architectural programming, megaprojects, artificial intelligence, collective intelligence, construction management, Tongji University, University of Melbourne
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: profile.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://tony874406515.github.io # the base hostname & protocol for your site
-baseurl: /shitaojin.github.io # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://shitaojin.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button

@@ -22,20 +22,20 @@ The GitHub repository homepage link can point to:
 https://shitaojin.github.io/
 ```
 
-For the current `tony874406515/shitaojin.github.io` repository, GitHub Pages publishes the working site as a project page:
+The current repository is `shitaojin/shitaojin.github.io`, so GitHub Pages publishes the site as a user homepage:
 
 ```yml
-url: https://tony874406515.github.io
-baseurl: /shitaojin.github.io
+url: https://shitaojin.github.io
+baseurl:
 ```
 
 The expected deployed URL is:
 
 ```text
-https://tony874406515.github.io/shitaojin.github.io/
+https://shitaojin.github.io/
 ```
 
-To make `https://shitaojin.github.io/` actually resolve, the site must be hosted from a GitHub user or organization named `shitaojin` with a repository named `shitaojin.github.io`.
+The repository name must remain exactly `shitaojin.github.io` for this root URL to work.
 
 ## Deployment
 
