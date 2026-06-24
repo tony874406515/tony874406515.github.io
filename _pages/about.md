@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Architecture · AI-enabled architectural programming · Megaproject decision-making
+subtitle: Ph.D. Candidate | Researcher | Architect | AI Engineer
 
 profile:
   align: right
@@ -27,9 +27,13 @@ latest_posts:
   enabled: false
 ---
 
-I am **Shitao Jin (靳世涛)**, a PhD candidate in the Department of Architecture at [Tongji University](https://www.tongji.edu.cn/) and a visiting PhD researcher in the Department of Infrastructure Engineering at [The University of Melbourne](https://infrastructure.eng.unimelb.edu.au/research/engineering-management/sustainable-production/graduate-researchers/shitao-jin). My thesis investigates **a collaborative optimization system for architectural programming of megaprojects based on collective intelligence**.
+I am a Ph.D. candidate in the Department of Architecture at [Tongji University](https://www.tongji.edu.cn/) and a visiting Ph.D. researcher in the Department of Infrastructure Engineering at [The University of Melbourne](https://infrastructure.eng.unimelb.edu.au/research/engineering-management/sustainable-production/graduate-researchers/shitao-jin).
 
-My research sits at the intersection of architecture, project management, and artificial intelligence. I develop methods for complex public projects such as mega transportation hubs, child-friendly communities, urban renewal, social infrastructure, and learning environments. Methodologically, I work with multi-agent reinforcement learning, deep learning, natural language process, text mining, topic modeling, sentiment analysis, social network analysis, multi-criteria decision-making, fuzzy/grey methods, and Monte Carlo simulation.
+My research focuses on **AI in Architecture**, with particular attention to architectural programming, megaproject governance, and human well-being. I am interested in how reinforcement learning can support early-stage problem definition, stakeholder coordination, and evidence-based design evaluation.
+
+My recent work develops a **collective intelligence-based decision-making system for the architectural programming of megaprojects**. This research connects multi-agent reinforcement learning with value-oriented architectural programming dimensions, with current applications in a real-world mega transportation project.
+
+In addition to research, I have architectural practice and project management experience in railway station projects, commercial complex projects, and university campus projects. I have also served as a teaching assistant for graduate-level courses at Tongji University and The University of Melbourne.
 
 <div class="profile-metrics">
   <div class="metric-card">
@@ -50,7 +54,7 @@ My research sits at the intersection of architecture, project management, and ar
   </div>
 </div>
 
-I am particularly interested in academic, postdoctoral, and research-oriented opportunities where architectural knowledge, computational methods, and infrastructure/project governance can be integrated. My current work builds a continuous research agenda around architectural programming as the front-end decision system of complex public projects, with AI and collective intelligence supporting early-stage problem definition, stakeholder coordination, risk reasoning, and evidence-based design evaluation.
+I am interested in academic, postdoctoral, and research-oriented opportunities focused on intelligent construction, innovative management, and smart cities, especially where architectural knowledge, computational methods, and infrastructure governance can be integrated.
 
 **Highlights**
 
