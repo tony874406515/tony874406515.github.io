@@ -29,11 +29,11 @@ latest_posts:
 
 I am a Ph.D. candidate in the Department of Architecture at [Tongji University](https://www.tongji.edu.cn/) and a visiting Ph.D. researcher in the Department of Infrastructure Engineering at [The University of Melbourne](https://infrastructure.eng.unimelb.edu.au/research/engineering-management/sustainable-production/graduate-researchers/shitao-jin).
 
-My research focuses on **AI in Architecture**, with particular attention to architectural programming, megaproject governance, and human well-being. I am interested in how reinforcement learning can support early-stage problem definition, stakeholder coordination, and evidence-based design evaluation.
+My research focuses on **AI in Architecture**, with particular attention to [architectural programming](https://doi.org/10.1108/ECAM-03-2024-0394), [megaproject governance](https://doi.org/10.1061/JCEMD4.COENG-17561), and [human well-being](https://doi.org/10.1016/j.foar.2026.02.012). I am interested in how reinforcement learning can support early-stage problem definition, stakeholder coordination, and evidence-based design evaluation.
 
-My recent work develops a collective intelligence-based decision-making system for the architectural programming of megaprojects. This research connects multi-agent reinforcement learning with value-oriented architectural programming dimensions, with current applications in a real-world mega transportation project.
+My recent work develops [a decision-making system for the architectural programming of megaprojects based on collective intelligence](https://papers.cumincad.org/data/works/att/caadria2026_268.pdf). This research connects multi-agent reinforcement learning with value-oriented architectural programming dimensions, with current applications in a real-world mega transportation project.
 
-In addition to research, I have architectural practice and project management experience in railway station projects, commercial complex projects, and university campus projects. I have also served as a teaching assistant for graduate-level courses at Tongji University and The University of Melbourne.
+In addition to research, I have architectural practice and project management experience in railway station projects, commercial complex projects, and university campus projects. I have also served as a teaching assistant for graduate-level courses at [Tongji University](https://mp.weixin.qq.com/s/ZX1OHELE8az95FGVsCXhZg) and [The University of Melbourne](https://blogs.unimelb.edu.au/mem-student-community/).
 
 <div class="profile-metrics">
   <div class="metric-card">
