@@ -172,6 +172,75 @@ html[data-theme="light"] {
   line-height: 1.5;
 }
 
+.home-news--excerpt tr:nth-child(n + 11) {
+  display: none;
+}
+
+.home-news--excerpt tr:nth-child(10) th,
+.home-news--excerpt tr:nth-child(10) td {
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.section-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin: -0.45rem 0 1.8rem;
+}
+
+.show-more-button {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.18), transparent), var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  border-radius: 999px;
+  box-shadow: 0 0.45rem 1.1rem rgba(216, 79, 97, 0.18);
+  color: #fff;
+  display: inline-flex;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1;
+  padding: 0.62rem 0.95rem;
+  text-decoration: none;
+  transition:
+    background 160ms ease,
+    box-shadow 160ms ease,
+    color 160ms ease,
+    transform 160ms ease;
+}
+
+.show-more-button::after {
+  content: ">";
+  font-size: 0.92rem;
+  margin-left: 0.55rem;
+}
+
+.show-more-button:hover,
+.show-more-button:focus {
+  background: transparent;
+  box-shadow: 0 0.35rem 0.95rem rgba(216, 79, 97, 0.12);
+  color: var(--global-theme-color);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.show-more-button--secondary {
+  background: transparent;
+  box-shadow: none;
+  color: var(--global-theme-color);
+}
+
+.show-more-button--secondary:hover,
+.show-more-button--secondary:focus {
+  background: var(--shitao-accent-soft);
+}
+
+.cv-action {
+  border-top: 1px solid var(--global-divider-color);
+  justify-content: center;
+  margin: 1.2rem 0 0;
+  padding-top: 1.2rem;
+}
+
 .awards-list {
   list-style: none;
   margin: 0.6rem 0 1.6rem;
@@ -197,6 +266,14 @@ html[data-theme="light"] {
   letter-spacing: 0;
 }
 
+.awards-list--excerpt li:nth-child(n + 11) {
+  display: none;
+}
+
+.awards-list--excerpt li:nth-child(10) {
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
 .publications ol.bibliography li {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 1.1rem;
@@ -211,6 +288,26 @@ html[data-theme="light"] {
   border-color: var(--shitao-accent-border);
   min-width: 3rem;
   text-transform: uppercase;
+}
+
+.publication-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0.25rem 0 0.45rem;
+}
+
+.metric-pill {
+  background: var(--shitao-accent-soft);
+  border: 1px solid var(--shitao-accent-border);
+  border-radius: 999px;
+  color: var(--global-theme-color);
+  display: inline-flex;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.25;
+  padding: 0.24rem 0.55rem;
 }
 
 @media (max-width: 768px) {
@@ -242,5 +339,9 @@ html[data-theme="light"] {
   .home-news td {
     border-top: 0;
     padding-top: 0;
+  }
+
+  .section-actions {
+    justify-content: flex-start;
   }
 }
